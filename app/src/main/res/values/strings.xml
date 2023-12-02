@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Kotlin Flows Examples</string>
+    <string name="click_me">Click me</string>
+    <string name="log_message">Log Message</string>
+    <string name="clear_log">Clear Logs</string>
 </resources>
